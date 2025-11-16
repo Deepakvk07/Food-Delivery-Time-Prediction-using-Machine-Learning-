@@ -1,18 +1,13 @@
 🍕 Food Delivery Time Prediction using Machine Learning
+
 📖 Overview
-
 This project predicts the time taken for food delivery using machine learning algorithms based on real-world factors such as distance, traffic, weather, and delivery conditions.
-
 It demonstrates how data-driven insights can improve delivery time estimation for online food platforms like Zomato, Swiggy, and UberEats.
 
 🎯 Objective
-
 Predict the delivery time (in minutes) for food orders.
-
 Analyze how different factors (traffic, distance, weather, etc.) affect delivery duration.
-
 Compare machine learning models for best prediction accuracy.
-
 Visualize relationships among features using Python data visualization tools.
 
 🧩 Dataset Description
